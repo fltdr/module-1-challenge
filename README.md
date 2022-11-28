@@ -6,4 +6,8 @@ For this challenge, our goal was for the website to meet accessibility standards
 
  ## URL
 
- The live website can be acccessed [here](https://www.w3schools.com/html/html5_semantic_elements.asp).
+ The live website can be acccessed [here](https://fltdr.github.io/module-1-challenge/).
+
+ ## Screenshot
+
+ Not available at this time.
